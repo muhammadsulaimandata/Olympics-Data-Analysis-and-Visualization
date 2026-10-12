@@ -28,3 +28,30 @@ Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+
+## Web Application Preview
+
+### Medal Tally
+
+![Overall](1.png)
+
+###  Overall Statistics
+
+![Overall Statistics](2.png)
+
+### Successful Athletes
+
+![Overall](3.png)
+
+### Country wise Analysis
+
+![Overall](4.png)
+
+### Athlete Hieght VS Weight
+
+![Overall](5.png)
+
+### Number of Events Over Time
+
+![Overall](6.png)
