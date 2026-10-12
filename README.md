@@ -32,26 +32,26 @@ pip install -r requirements.txt
 
 ## Web Application Preview
 
-### Medal Tally
+### 1. Medal Tally
 
 ![Overall](images/1.png)
 
-###  Overall Statistics
+###  2. Overall Statistics
 
 ![Overall Statistics](images/2.png)
 
-### Successful Athletes
+### 3. Successful Athletes
 
 ![Overall](images/3.png)
 
-### Country wise Analysis
+### 4.  Country wise Analysis
 
 ![Overall](images/4.png)
 
-### Athlete Hieght VS Weight
+### 5. Athlete Hieght VS Weight
 
 ![Overall](images/5.png)
 
-### Number of Events Over Time
+### 6. Number of Events Over Time
 
 ![Overall](images/6.png)
